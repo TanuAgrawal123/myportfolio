@@ -1,0 +1,143 @@
+.header-color{
+  background: #833ab4;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+
+.Landing-grid{
+  background: #833ab4;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+text-align: center;
+position: fixed;
+
+height: 100%;
+width:100%;
+
+}
+.projects-grid{
+  display: flex;
+}
+
+
+
+  .resume-right-col{
+    background:#27221f;
+    color: white;
+    padding: 2em;
+
+  
+}
+
+.contact-body{
+  margin:auto;
+  
+  position: fixed;
+  width:100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+
+}
+
+.contact-grid{
+  text-align: center;
+  justify-content: center;
+  width:80%;
+  height:550px;
+  background: white;
+  color:black;
+  
+  margin-bottom: 20px;
+}
+
+.contact-grid h2{
+  font-family: 'Anton', sans-serif;
+
+
+}
+.contact-grid p{
+  font-family: 'Oxygen' , sans-serif;
+  font-weight: bold;
+}
+.contact-grid hr{
+  border-top: 5px dotted black;
+  width:50%;
+  margin:auto;
+
+}
+.contact-list i
+
+{
+  font-size: 66px;
+  padding-right: 3rem;
+
+}
+.avatar-img{
+  padding-top: 5en;
+  height: 250px; 
+}
+.banner-text{
+  background-color: black;
+  opacity: .8;
+  width:60%;
+  margin: auto;
+  
+  border-radius: 10px;
+  align-items: center;
+  height: 350px;
+
+
+}
+
+.banner-text h3  {
+  font-size: 50px;
+  font-weight: bold;
+  color:white;
+  align-items: center;
+  text-align: center;
+}
+.banner-text  h4 {
+  font-size: 30px;
+  font-weight: bold;
+  color:white;
+  align-items: center;
+  text-align: center;
+}
+.banner-text hr{
+  border-top:5px dotted white;
+  width:50%;
+  padding-bottom:10px; 
+margin: auto;
+}
+
+.social-links{
+  
+  display: flex;
+  justify-content: space-between;
+  width:50%;
+  margin:auto;
+  margin-top:20px;
+
+
+}
+
+.social-links i {
+  color: white;
+  font-size: 50px;
+
+  padding: 10px;
+
+}
+.banner-text p{
+  color:white;
+  font-size: 20px;
+  padding :2px ;
+  margin:auto;
+  text-align: center;
+
+}
+
