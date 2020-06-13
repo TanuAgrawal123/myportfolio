@@ -9,10 +9,10 @@ function App() {
     <div className="App">
       <div className="demo-big-content">
     <Layout>
-        <Header  className="header-color" title="Title" scroll>
+        <Header  className="header-color" title="MyPortfolio" scroll>
             <Navigation>
                <Link to="/resume">Resume</Link>
-                <Link to ="/aboutme">About Me</Link>
+                
                 <Link to="/project">Projects</Link>
                 <Link to ="/contact">Contact</Link>
                 
@@ -21,10 +21,10 @@ function App() {
 
             </Navigation>
         </Header>
-        <Drawer title="Title">
+        <Drawer title="MyPortfolio">
             <Navigation>
                       <Link to="/resume">Resume</Link>
-                <Link to ="/aboutme">About Me</Link>
+                
                 <Link to="/project">Projects</Link>
                 <Link to ="/contact">Contact</Link>
                 
