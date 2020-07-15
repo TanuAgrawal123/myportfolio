@@ -95,7 +95,7 @@ width:100%;
 .banner-text{
   background-color:white;
   opacity: .8;
-  width:60%;
+ width:70%;
   margin: auto;
   color:black;
   
@@ -131,7 +131,7 @@ margin: auto;
   
   display: flex;
   justify-content: space-between;
-  width:50%;
+  width:75%;
   margin:auto;
   margin-top:20px;
 
@@ -141,6 +141,7 @@ margin: auto;
 .social-links i {
   color: black;
   font-size: 50px;
+  width:60;
 
   padding: 10px;
 

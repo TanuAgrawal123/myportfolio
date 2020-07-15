@@ -25,16 +25,16 @@ class Contact extends Component{
 <div className="contact-list">
 			<List>
   <ListItem>
-    <ListItemContent style={{fontSize:'20px', color:"blue"}}>
+    <ListItemContent style={{fontSize:'17px', color:"blue"}}>
 
 <i className="fa fa-phone-square" style={{ color:"black"}} aria-hidden="true"/>
-8476935639
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(91)8476935639
 
     </ListItemContent>
   </ListItem>
 
   <ListItem>
-    <ListItemContent  style={{fontSize:'20px', color:"blue"}} >
+    <ListItemContent  style={{fontSize:'15px', color:"blue"}} >
     <i className="fa fa-envelope-square" style={{color:"black"}} aria-hidden="true"/>   
     tanuagrawal1389@gmail.com
     </ListItemContent>
@@ -42,7 +42,7 @@ class Contact extends Component{
 
   
   <ListItem>
-    <ListItemContent  style={{fontSize:'20px', color:"blue"}} >
+    <ListItemContent  style={{fontSize:'15px', color:"blue"}} >
     <i className="fa fa-envelope-square" style={{color:"black"}} aria-hidden="true"/>   
     tanucseintern@outlook.com
     </ListItemContent>
