@@ -1,5 +1,6 @@
 import React , {Component} from 'react';
 import {Grid, Cell, List, ListItem, ListItemContent} from 'react-mdl';
+import profile from './profile.jpg'
 class Contact extends Component{
 	render(){
 		return(
@@ -7,7 +8,7 @@ class Contact extends Component{
 			<Grid className="contact-grid">
 			<Cell col={6}>
 			<h2 className="text-danger"> Tanu Agrawal</h2>
-			<img src="https://cdn4.iconfinder.com/data/icons/avatar-vol-1-3/512/10-512.png" alt="avtar"
+			<img src={profile} alt="avtar" className="rounded-circle"
 			style={{height:'250px'}}
 
 			/>
