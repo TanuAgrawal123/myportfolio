@@ -1,6 +1,6 @@
 import React , {Component} from 'react';
 import {Grid, Cell} from 'react-mdl';
-import profile from './profile.jpg'
+import profile from './myself.jpg'
 class Landingpage extends Component{
 	render(){
 		return(
@@ -13,8 +13,13 @@ class Landingpage extends Component{
 			
 <h3>Tanu Agrawal</h3>
 <h4>Student</h4>
+<p> I am currently a student of 3rd Yr pursuing for my B.Tech degree in Computer Science and Engineering from Bundelkhand Institute of Engineering and Technology, Jhansi.
+I love coding and designing websites. I am very much passionate about my work and have big dreams.
+My strength is my family and the people around me.</p>
+<br/> 
 <hr/>
-<p> Bootstrap | Python | Django | React | javascript | Github </p>
+<br/>
+<p> Bootstrap | Python | Django | React | javascript | Github | RestAPI  </p>
 <div className="social-links">
 <a href="https://github.com/TanuAgrawal123" rel="noopener noreferrer" target="_blank">
 <i className="fa fa-github" aria-hidden="true"/>

@@ -1,10 +1,10 @@
 import React , {Component} from 'react';
-import {Tabs, Tab, Grid,Cell, Card,CardText, CardTitle, CardActions, Button, CardMenu, IconButton} from 'react-mdl';
+import { Grid,Cell, Button, CardMenu, IconButton} from 'react-mdl';
 import Education from './education';
 import Experience from './experience';
 import Skills from './skills'
 import Project from './resumeproject';
-import profile from './profile.jpg'
+import profile from './myself.jpg'
 class Resume extends Component{
 	render(){
 		return(
@@ -36,7 +36,7 @@ class Resume extends Component{
 			<p> English and Hindi</p>
 			
 		<hr style={{borderTop:'3px solid 833fb2', width:'50%'}}/>
-			<h5><a  className="btn btn-info" href="https://github.com/TanuAgrawal123/Resume/blob/master/tanuresume-converted%20(3).pdf"><i className="fa fa-link  mr-2 text-white"></i>
+			<h5><a  className="btn btn-info" href="https://github.com/TanuAgrawal123/Resume/blob/master/tanu_resume.pdf"><i className="fa fa-link  mr-2 text-white"></i>
 			Resume  Link</a></h5>
 <hr style={{borderTop:'3px solid 833fb2', width:'50%'}}/>
 
