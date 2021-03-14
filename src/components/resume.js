@@ -4,7 +4,7 @@ import Education from './education';
 import Experience from './experience';
 import Skills from './skills'
 import Project from './resumeproject';
-import profile from './myself.jpg'
+import profile from './myself1.jpg'
 class Resume extends Component{
 	render(){
 		return(
@@ -21,12 +21,12 @@ class Resume extends Component{
 			<h3 style={{paddingTop:'20px',  color:'blue'}}>Tanu Agrawal</h3>
 			<h4 style={{color:'grey'}}>Programmer</h4>
 			<hr style={{borderTop:'3px solid 833fb2', width:'50%'}}/>
-			<p>I am Tanu Agrawal currently a student of 3rd Yr pursuing for my B.Tech degree in Computer Science and Engineering 
+			<p>I am Tanu Agrawal currently a student of Final Year pursuing for my B.Tech degree in Computer Science and Engineering 
 			from Bundelkhand Institute of Engineering and Technology Jhansi.
 			I love Coding and designing Website. </p>
 			<hr style={{borderTop:'3px solid 833fb2', width:'50%'}}/>
 			<h5>Address</h5>
-			<p>G-62 Kalpana Chawla Hostel BIET Jhansi </p>
+			<p>Vishwa Laxmi Nagar ,Mathura </p>
 			<h5> Mobile</h5>
 			<p>8476935639</p>
 			<h5>Email</h5>
@@ -36,7 +36,7 @@ class Resume extends Component{
 			<p> English and Hindi</p>
 			
 		<hr style={{borderTop:'3px solid 833fb2', width:'50%'}}/>
-			<h5><a  className="btn btn-info" href="https://github.com/TanuAgrawal123/Resume/blob/master/tanu_resume.pdf"><i className="fa fa-link  mr-2 text-white"></i>
+			<h5><a  className="btn btn-info" href="https://github.com/TanuAgrawal123/Resume/blob/master/resume%20(8).pdf"><i className="fa fa-link  mr-2 text-white"></i>
 			Resume  Link</a></h5>
 <hr style={{borderTop:'3px solid 833fb2', width:'50%'}}/>
 
@@ -57,7 +57,7 @@ class Resume extends Component{
 
 <Skills
  skill="C++" 
- progress={50}/>
+ progress={75}/>
 
  
 <h4> FrontEnd</h4>
@@ -155,11 +155,11 @@ details="Back end Developer . Worked on Rest Api and Django Framework "
 />
 <Experience
 icon=""
-position=" Core Member"
-startyear="January 2020"
-endyear="present"
-Company="R Cubed"
-details="R Cubed is technical club of our college"
+position=" Executive Member and Mentor"
+startyear="October 2020"
+endyear="Present"
+Company="CODE- Club Of DEvelopers"
+details="CODE is an initiative of the Computer Science Department, BIET Jhansi, focuses on providing better learning and career opportunities"
 
 />
 <hr style={{ borderTop: '2px solid white', width: '100%'}}/>
@@ -226,7 +226,7 @@ discription="React Based Portfolio describing all about me"
 <h6>Awarded with Tablet by state government to be in Top 100 girls in UPSEE exam 2017.</h6>
 <h6> Got a HackerRank Skills verification test certificate for Problem Solving(Intermediate)! <a href="https://www.hackerrank.com/certificates/cf7d76f1c2c8">Credentials Link !</a>
 </h6>
-
+<h6>Solved 200+ questions on Leetcode. <a href="https://leetcode.com/tanuagrawal/">Leetcode Profile</a></h6>
 			</Cell>
 			</Grid>
 

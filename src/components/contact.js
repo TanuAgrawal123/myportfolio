@@ -1,6 +1,6 @@
 import React , {Component} from 'react';
 import {Grid, Cell, List, ListItem, ListItemContent} from 'react-mdl';
-import profile from './myself.jpg'
+import profile from './myself1.jpg'
 class Contact extends Component{
 	render(){
 		return(

@@ -1,6 +1,6 @@
 import React , {Component} from 'react';
 import {Grid, Cell} from 'react-mdl';
-import profile from './myself.jpg'
+import profile from './myself1.jpg'
 class Landingpage extends Component{
 	render(){
 		return(
@@ -13,7 +13,7 @@ class Landingpage extends Component{
 			
 <h3>Tanu Agrawal</h3>
 <h4>Student</h4>
-<p> I am currently a student of 3rd Yr pursuing for my B.Tech degree in Computer Science and Engineering from Bundelkhand Institute of Engineering and Technology, Jhansi.
+<p> I am currently a student of Final Year pursuing for my B.Tech degree in Computer Science and Engineering from Bundelkhand Institute of Engineering and Technology, Jhansi.
 I love coding and designing websites. I am very much passionate about my work and have big dreams.
 My strength is my family and the people around me.</p>
 <br/> 
@@ -24,10 +24,10 @@ My strength is my family and the people around me.</p>
 <a href="https://github.com/TanuAgrawal123" rel="noopener noreferrer" target="_blank">
 <i className="fa fa-github" aria-hidden="true"/>
 </a>
-<a href="http://google.com" rel="noopener noreferrer" target="_blank">
+<a href="https://www.linkedin.com/in/tanuagrawal/" rel="noopener noreferrer" target="_blank">
 <i className="fa fa-linkedin" aria-hidden="true"/>
 </a>
-<a href="http://google.com" rel="noopener noreferrer" target="_blank">
+<a href="https://twitter.com/TanuAgr63491772" rel="noopener noreferrer" target="_blank">
 <i className="fa fa-twitter" aria-hidden="true"/>
 </a>
 <a href="https://www.youtube.com/channel/UCDAOvX2Q5eKwDd3XY5vJixQ?view_as=subscriber" rel="noopener noreferrer" target="_blank">
