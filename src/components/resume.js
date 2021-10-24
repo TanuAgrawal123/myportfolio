@@ -21,9 +21,10 @@ class Resume extends Component{
 			<h3 style={{paddingTop:'20px',  color:'blue'}}>Tanu Agrawal</h3>
 			<h4 style={{color:'grey'}}>Programmer</h4>
 			<hr style={{borderTop:'3px solid 833fb2', width:'50%'}}/>
-			<p>I am Tanu Agrawal currently a student of Final Year pursuing for my B.Tech degree in Computer Science and Engineering 
-			from Bundelkhand Institute of Engineering and Technology Jhansi.
-			I love Coding and designing Website. </p>
+		<p>Myself Tanu Agrawal. I am from Mathura, Uttar Pradesh. I have done my graduation from <b>BIET Jhansi</b> in  <b>CSE</b> field with an aggregate of 80%. I love designing website and writing backend logics.
+I am an executive member of college's <b>technical club (CODE)</b> where we guide our juniors. I have participated in Global <b>Hacktoberfest </b> from Last three year and contributed in open source repository. I have secured AIR 1855 in Gate exam that help me to boost my core subject Knowledge.
+Coming to my strength i am good learner and have positive attitude and committed to my work
+	 </p>
 			<hr style={{borderTop:'3px solid 833fb2', width:'50%'}}/>
 			<h5>Address</h5>
 			<p>Vishwa Laxmi Nagar ,Mathura </p>
@@ -146,6 +147,15 @@ class Resume extends Component{
 <h2> Work Experience</h2>
 <Experience
 icon="fa-building"
+position="Associate Sytem Engineer"
+startyear="26 July 2021"
+endyear="Present"
+Company="Airbus Group Pvt Ltd" 
+details="Joined Information ManagemenT at Airbus"
+
+/>
+<Experience
+icon="fa-building"
 position="Summer Interns"
 startyear="22 May 2020"
 endyear="22 july 2020"
@@ -223,10 +233,11 @@ discription="React Based Portfolio describing all about me"
 <hr style={{ borderTop: '2px solid white', width: '100%'}}/>
 <h3> Other Acheivements</h3>
 <h6>Completed 100 Days of Coding Challenge. <a href="https://github.com/TanuAgrawal123/100DaysOfCode"> Github Link</a></h6>
-<h6>Awarded with Tablet by state government to be in Top 100 girls in UPSEE exam 2017.</h6>
-<h6> Got a HackerRank Skills verification test certificate for Problem Solving(Intermediate)! <a href="https://www.hackerrank.com/certificates/cf7d76f1c2c8">Credentials Link !</a>
-</h6>
-<h6>Solved 200+ questions on Leetcode. <a href="https://leetcode.com/tanuagrawal/">Leetcode Profile</a></h6>
+
+
+<h6>Solved 250+ questions on Leetcode. <a href="https://leetcode.com/tanuagrawal/">Leetcode Profile</a></h6>
+<h6> Secured an AIR 1855 in Gate CSE 2021</h6>
+<h6> Participated in Hacktoberfest from last 3 years</h6>
 			</Cell>
 			</Grid>
 
